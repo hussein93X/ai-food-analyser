@@ -1,0 +1,32 @@
+{
+  "name": "algerian-food-analyzer",
+  "version": "1.0.0",
+  "description": "An Arabic web application for Algerian users to analyze food products, similar to the French Yuka app",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8000",
+    "serve": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "food-analyzer",
+    "yuka",
+    "arabic",
+    "algeria",
+    "nutrition",
+    "health",
+    "food-scanner"
+  ],
+  "author": "Algerian Food Analyzer Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/username/algerian-food-analyzer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/username/algerian-food-analyzer/issues"
+  },
+  "homepage": "https://github.com/username/algerian-food-analyzer#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
